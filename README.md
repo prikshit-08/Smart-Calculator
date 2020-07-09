@@ -40,9 +40,9 @@ A calculator with basic operation (+,-,*,/,%,^), with manual as well as voice in
 ---
 [(Back to top)](#list-of-contents)
 
--Run the index.html file to start using the calculator.
--*Note : To use voice input active internet connection is required.
--*Note : Web Speech API is not fully supported by all the browser, so tryto us this application in Google Chrome(*Firefox doesnot Support WEb Speech API).
+- Run the index.html file to start using the calculator.
+- Note : To use voice input active internet connection is required.
+- Note : Web Speech API is not fully supported by all the browser, so tryto us this application in Google Chrome(*Firefox doesnot Support WEb Speech API).
 
 ## Technology Used
 ---
