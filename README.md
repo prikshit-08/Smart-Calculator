@@ -42,7 +42,7 @@ A calculator with basic operation (+,-,*,/,%,^), with manual as well as voice in
 
 - Run the index.html file to start using the calculator.
 - Note : To use voice input active internet connection is required.
-- Note : Web Speech API is not fully supported by all the browser, so tryto us this application in Google Chrome(*Firefox doesnot Support WEb Speech API).
+- Note : Web Speech API is not fully supported by all the browser, so try to us this application in Google Chrome(*Firefox doesnot Support Web Speech API).
 
 ## Technology Used
 ---
